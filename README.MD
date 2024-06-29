@@ -6,3 +6,4 @@
 Develop an image recognition pipeline to process user-captured food images and estimate the total calorie content.
 Design a user-friendly mobile application for easy interaction and calorie tracking.
 
+
